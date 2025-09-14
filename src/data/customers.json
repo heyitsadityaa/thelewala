@@ -1,0 +1,126 @@
+[
+  {
+    "id": "0",
+    "name": "Customer Name 0",
+    "description": "This vendor offers a variety of snacks and drinks.",
+    "long": 85.0449,
+    "lat": 25.6165,
+    "isSubscribed": false,
+    "image": "https://example.com/vendor0.jpg",
+    "items": ["Chips", "Soda", "Cookies", "Biscuits", "Water"]
+  },
+  {
+    "id": "1",
+    "name": "Customer Name 1",
+    "description": "Fresh fruit and vegetable seller.",
+    "long": 85.046,
+    "lat": 25.6178,
+    "isSubscribed": true,
+    "image": "https://example.com/vendor1.jpg",
+    "items": ["Apples", "Bananas", "Carrots", "Tomatoes", "Spinach"]
+  },
+  {
+    "id": "2",
+    "name": "Customer Name 2",
+    "description": "Authentic street food vendor.",
+    "long": 85.0435,
+    "lat": 25.6142,
+    "isSubscribed": false,
+    "image": "https://example.com/vendor2.jpg",
+    "items": ["Samosas", "Pakoras", "Chutney", "Parathas", "Kachori"]
+  },
+  {
+    "id": "3",
+    "name": "Customer Name 3",
+    "description": "Ice cream and dessert seller.",
+    "long": 85.0458,
+    "lat": 25.6189,
+    "isSubscribed": true,
+    "image": "https://example.com/vendor3.jpg",
+    "items": [
+      "Vanilla Ice Cream",
+      "Chocolate Sundae",
+      "Kulfi",
+      "Gulab Jamun",
+      "Brownies"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Customer Name 4",
+    "description": "Local crafts and souvenirs vendor.",
+    "long": 85.044,
+    "lat": 25.6131,
+    "isSubscribed": false,
+    "image": "https://example.com/vendor4.jpg",
+    "items": [
+      "Handmade Jewelry",
+      "Paintings",
+      "Keychains",
+      "Scarves",
+      "Wooden Crafts"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Customer Name 5",
+    "description": "Juice and smoothie seller.",
+    "long": 85.0463,
+    "lat": 25.6128,
+    "isSubscribed": true,
+    "image": "https://example.com/vendor5.jpg",
+    "items": [
+      "Orange Juice",
+      "Mango Smoothie",
+      "Lemonade",
+      "Berry Blast",
+      "Coconut Water"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Customer Name 6",
+    "description": "Popular for chai and samosas.",
+    "long": 85.0432,
+    "lat": 25.6172,
+    "isSubscribed": false,
+    "image": "https://example.com/vendor6.jpg",
+    "items": [
+      "Masala Chai",
+      "Ginger Tea",
+      "Samosas",
+      "Biscuits",
+      "Bread Pakora"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Customer Name 7",
+    "description": "Specializes in spicy street snacks.",
+    "long": 85.0455,
+    "lat": 25.6158,
+    "isSubscribed": true,
+    "image": "https://example.com/vendor7.jpg",
+    "items": ["Pani Puri", "Bhel Puri", "Sev Puri", "Aloo Tikki", "Dahi Puri"]
+  },
+  {
+    "id": "8",
+    "name": "Customer Name 8",
+    "description": "Street vendor selling baked goods.",
+    "long": 85.0442,
+    "lat": 25.6137,
+    "isSubscribed": false,
+    "image": "https://example.com/vendor8.jpg",
+    "items": ["Croissants", "Muffins", "Bagels", "Cakes", "Cookies"]
+  },
+  {
+    "id": "9",
+    "name": "Customer Name 9",
+    "description": "Famous for pani puri and chaat.",
+    "long": 85.045,
+    "lat": 25.6145,
+    "isSubscribed": true,
+    "image": "https://example.com/vendor9.jpg",
+    "items": ["Pani Puri", "Chaat", "Papdi Chaat", "Dahi Bhalla", "Aloo Chaat"]
+  }
+]
