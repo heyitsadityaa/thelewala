@@ -1,4 +1,4 @@
-# Thelewla - Dual-sided Mobile Platform
+# Thelewala - Dual-sided Mobile Platform
 
 > A comprehensive dual-sided mobile platform built with React Native and NestJS that connects street vendors of all types with nearby customers in real-time.
 > 
