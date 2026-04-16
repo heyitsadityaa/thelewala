@@ -13,10 +13,18 @@ TheLewala is a comprehensive dual-sided mobile platform built with React Native 
 ## Project Demo
 
 ### Customer Experience
-[![Customer Demo](./assets/thelewala.png)](./assets/thelewala-customer.mp4)
+<video width="800" height="450" controls muted poster="./assets/thelewala.png">
+  <source src="./assets/thelewala-customer.mp4" type="video/mp4">
+  <img src="./assets/thelewala.png" alt="Customer Demo" width="800" height="450">
+  > Your browser does not support the video tag.
+</video>
 
 ### Vendor Experience
-[![Vendor Demo](./assets/thelewala.png)](./assets/thelewala-vendor.mp4)
+<video width="800" height="450" controls muted poster="./assets/thelewala.png">
+  <source src="./assets/thelewala-vendor.mp4" type="video/mp4">
+  <img src="./assets/thelewala.png" alt="Vendor Demo" width="800" height="450">
+  > Your browser does not support the video tag.
+</video>
 
 ---
 
