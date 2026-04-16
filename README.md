@@ -1,4 +1,6 @@
-![Thelewala Logo](./assets/thelewala.png)
+<p align="center">
+    <img width="800" height="450" alt="Thelewala Logo" src="./assets/thelewala.png" />
+</p>
 
 # Thelewala - Dual-sided Mobile Platform
 
@@ -13,18 +15,18 @@ TheLewala is a comprehensive dual-sided mobile platform built with React Native 
 ## Project Demo
 
 ### Customer Experience
-<video width="800" height="450" controls muted poster="./assets/thelewala.png">
-  <source src="./assets/thelewala-customer.mp4" type="video/mp4">
-  <img src="./assets/thelewala.png" alt="Customer Demo" width="800" height="450">
-  Your browser does not support the video tag.
-</video>
+
+Check out the customer experience in action:
+
+[Watch the Customer Demo](https://github.com/user-attachments/assets/dde5f99b-d2b0-492a-86db-f9fa9c24f8f0)
+> _Click to watch a walkthrough of vendor discovery, real-time location tracking, and ordering flow._
 
 ### Vendor Experience
-<video width="800" height="450" controls muted poster="./assets/thelewala.png">
-  <source src="./assets/thelewala-vendor.mp4" type="video/mp4">
-  <img src="./assets/thelewala.png" alt="Vendor Demo" width="800" height="450">
-  Your browser does not support the video tag.
-</video>
+
+See how vendors manage their presence and sales:
+
+[Watch the Vendor Demo](https://github.com/user-attachments/assets/86a146b4-c664-44c8-9d6d-6e57c8e20f2a)
+> _Click to watch selling mode toggles, location broadcasting, and real-time customer interactions._
 
 ---
 
