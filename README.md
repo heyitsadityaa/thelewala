@@ -3,9 +3,19 @@
 > A comprehensive dual-sided mobile platform built with React Native and NestJS that connects street vendors of all types with nearby customers in real-time.
 > 
 
+![Thelewala Logo](./assets/thelewala.png)
+
 ## Overview
 
 TheLewala is a comprehensive dual-sided mobile platform built with React Native and NestJS that connects street vendors of all types with nearby customers in real-time. Using advanced geospatial technology, the platform enables vendors to digitally broadcast their location and services, while helping customers discover nearby offerings through an interactive map interface. The app has both vendor and customer sides, supported by a centralized NestJS backend.
+
+## Project Demo
+
+### Customer Experience
+[![Customer Demo](./assets/thelewala.png)](./assets/thelewala-customer.mp4)
+
+### Vendor Experience
+[![Vendor Demo](./assets/thelewala.png)](./assets/thelewala-vendor.mp4)
 
 ---
 
