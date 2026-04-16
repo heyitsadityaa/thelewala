@@ -1,9 +1,10 @@
+![Thelewala Logo](./assets/thelewala.png)
+
 # Thelewala - Dual-sided Mobile Platform
 
 > A comprehensive dual-sided mobile platform built with React Native and NestJS that connects street vendors of all types with nearby customers in real-time.
 > 
 
-![Thelewala Logo](./assets/thelewala.png)
 
 ## Overview
 
